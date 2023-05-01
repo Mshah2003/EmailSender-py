@@ -2,7 +2,8 @@ import smtplib
 from email.message import EmailMessage
 import ssl
 
-sender = 'megh.shah2003@gmail.com'
+sender = ''
+# Take your email as sender
 password = '' 
 # Use your password through google apppasswords
 receiver = input()
