@@ -3,7 +3,8 @@ from email.message import EmailMessage
 import ssl
 
 sender = 'megh.shah2003@gmail.com'
-password = 'rtgjtsqqzpmecpxk'
+password = '' 
+# Use your password through google apppasswords
 receiver = input()
 
 subject = 'Test email'
